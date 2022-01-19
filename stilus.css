@@ -1,0 +1,77 @@
+﻿body
+{
+    background-color: darkgrey;
+}
+#menu {
+    border: solid 1px black;
+    width: 25%;
+    box-sizing: content-box;
+    float: left;
+    height: 60vh;
+    border-radius: 10px;
+    background-color: #444444;
+}
+#kep 
+{
+    width: 100%;
+    border-radius: 5px;
+}
+.gombok {
+    text-decoration: none;
+    color: white;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-top: solid #545454 1px;
+    border-bottom: solid #343434 1px;
+    font-family: Arial;
+    padding: 4px;
+    font-size: 20px;
+}
+.gomb {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+#alkeret {
+    height: 80vh;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: ghostwhite;
+    padding: 10px;
+    border: solid 3px black;
+    box-sizing: content-box;
+}
+h1 {
+    font-size: 40px;
+}
+#golyo {
+    
+    width: 100px;
+    height: 100px;
+}
+#keret {
+    height: 70vh;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+#szam {
+    font-size: 65px;
+    padding: 10px;
+}
+#keret2 {
+    height: 70vh;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
